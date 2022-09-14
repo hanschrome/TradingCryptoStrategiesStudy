@@ -47,8 +47,18 @@ Data training: {"List_of_prices": [], "Expected_output": boolean}
   - https://www.tensorflow.org/text/tutorials/text_classification_rnn
   - https://www.analyticsvidhya.com/blog/2021/06/lstm-for-text-classification/
 
+## Linear function GRID
+
+- To get a math model in order to get "floor" and "ceil" prices
+- Obtain a number between 0 and 1 depending of the current price in reference to the floor and the ceil
+- To select a collection of cryptocurrencies for the balance
+- To find a way to balance a quantity between the markets... To buy all to the max profitability? -> First prototype
+- To develop the algorithm for MTR-ENGINE
+
 ## Conclusions
 
 ### LSTM Full graphic evaluation
 
 A price can be estimated based on the previous prices.
+
+Test 1: Predict day to day based on the previous 30 days.
