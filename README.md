@@ -39,7 +39,9 @@ Data training: {"List_of_prices": [], "Expected_output": boolean}
   - https://www.tensorflow.org/guide/keras/rnn
   - https://machinelearningknowledge.ai/keras-lstm-layer-explained-for-beginners-with-example/
 - Supervised learning
-  - .
+  - https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+  - https://keras.io/api/models/sequential/
+  - Save and load models: https://www.tensorflow.org/guide/keras/save_and_serialize?hl=es-419
 - Classification techniques (classify on keep-stable, rise, fall)
   - https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
   - https://www.pluralsight.com/guides/classification-keras
